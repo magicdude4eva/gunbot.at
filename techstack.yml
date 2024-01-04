@@ -1,7 +1,8 @@
 repo_name: magicdude4eva/gunbot.at
-report_id: dfa754fe7588a4c1c46077b089c2fc32
+report_id: 2862f5abf6e983e8070935d2c44f3343
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:51:51+00:00'
+timestamp: '2024-01-04T15:09:22+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/magicdude4eva/gunbot.at
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -25,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/magicdude4eva/gunbot.at/blob/main/assets/plugins/font-awesome/HELP-US-OUT.txt
   detection_source: assets/plugins/font-awesome/HELP-US-OUT.txt
   last_updated_by: magicdude4eva
   last_updated_on: 2021-02-21 13:22:13.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/magicdude4eva/gunbot.at
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -43,6 +47,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/magicdude4eva/gunbot.at/blob/main/index.html
   detection_source: index.html
   last_updated_by: Gerd Naschenweng
   last_updated_on: 2021-07-02 13:31:45.000000000 Z
@@ -54,6 +59,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/magicdude4eva/gunbot.at/blob/main/assets/plugins/font-awesome/HELP-US-OUT.txt
   detection_source: assets/plugins/font-awesome/HELP-US-OUT.txt
   last_updated_by: magicdude4eva
   last_updated_on: 2021-02-21 13:22:13.000000000 Z
