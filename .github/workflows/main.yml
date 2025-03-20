@@ -25,3 +25,11 @@ jobs:
           README.md
           techstack.*
           LICENSE
+          assets/plugins/font-awesome/less/**
+          assets/plugins/font-awesome/scss/**
+          assets/plugins/font-awesome/sprites/**
+          assets/plugins/font-awesome/svgs/**
+          assets/plugins/font-awesome/metadata/**
+          assets/plugins/font-awesome/LICENSE.txt
+          assets/plugins/font-awesome/HELP-US-OUT.txt
+          assets/plugins/font-awesome/attribution.js
