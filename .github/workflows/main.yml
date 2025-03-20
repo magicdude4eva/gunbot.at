@@ -9,7 +9,7 @@ jobs:
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v4
-    
+
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
@@ -30,7 +30,8 @@ jobs:
           assets/plugins/font-awesome/sprites/**
           assets/plugins/font-awesome/svgs/**
           assets/plugins/font-awesome/metadata/**
+          assets/plugins/font-awesome/js/**
+          assets/plugins/font-awesome/fonts/**
           assets/plugins/font-awesome/LICENSE.txt
           assets/plugins/font-awesome/HELP-US-OUT.txt
           assets/plugins/font-awesome/attribution.js
-          
